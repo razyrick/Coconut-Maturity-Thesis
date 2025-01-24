@@ -5,3 +5,5 @@ E:/bscs/Coconut[[:space:]]Maturity/Coconut-Maturity-Thesis/models/mask_rcnn_cust
 *.md filter=lfs diff=lfs merge=lfs -text
 *.h5 filter=lfs diff=lfs merge=lfs -text
 *.ipynb filter=lfs diff=lfs merge=lfs -text
+mask_rcnn_coco.h5 filter=lfs diff=lfs merge=lfs -text
+fine_tuned_best_model.keras filter=lfs diff=lfs merge=lfs -text
